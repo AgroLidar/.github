@@ -2,8 +2,6 @@
 <img src="logo.png" width="200"/>
 </p>
 
-<h1 align="center">AgroLidar 🌾</h1>
-
 <p align="center">
   LiDAR perception system for agricultural machines
 </p>
